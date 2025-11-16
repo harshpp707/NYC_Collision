@@ -3,4 +3,4 @@ numpy
 requests
 matplotlib
 seaborn
-folium
+geopandas
